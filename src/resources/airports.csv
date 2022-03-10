@@ -1,0 +1,568 @@
+name,latitude_deg,longitude_deg,elevation_ft,iso_country,municipality,iata_code
+Mar de Cortés International Airport,31.351621,-113.305864,71,MX,Puerto Peñasco,PPE
+Port Moresby Jacksons International Airport,-9.443380356,147.2200012,146,PG,Port Moresby,POM
+Keflavik International Airport,63.98500061,-22.60560036,171,IS,Reykjavík,KEF
+Priština International Airport,42.5728,21.035801,1789,XK,Prishtina,PRN
+Edmonton International Airport,53.30970001,-113.5800018,2373,CA,Edmonton,YEG
+Halifax / Stanfield International Airport,44.88079834,-63.50859833,477,CA,Halifax,YHZ
+Ottawa Macdonald-Cartier International Airport,45.32249832,-75.66919708,374,CA,Ottawa,YOW
+Montreal / Pierre Elliott Trudeau International Airport,45.47060013,-73.74079895,118,CA,Montréal,YUL
+Vancouver International Airport,49.19390106,-123.1839981,14,CA,Vancouver,YVR
+Winnipeg / James Armstrong Richardson International Airport,49.90999985,-97.23989868,783,CA,Winnipeg,YWG
+Calgary International Airport,51.11389923,-114.0199966,3557,CA,Calgary,YYC
+Victoria International Airport,48.64690018,-123.4260025,63,CA,Victoria,YYJ
+St. John's International Airport,47.61859894,-52.75189972,461,CA,St. John's,YYT
+Lester B. Pearson International Airport,43.67720032,-79.63059998,569,CA,Toronto,YYZ
+Houari Boumediene Airport,36.69100189,3.215409994,82,DZ,Algiers,ALG
+Kotoka International Airport,5.6051898,-0.166786,205,GH,Accra,ACC
+Nnamdi Azikiwe International Airport,9.006790161,7.263169765,1123,NG,Abuja,ABV
+Akwa Ibom International Airport,4.8725,8.093,170,NG,Uyo,QUO
+Mallam Aminu International Airport,12.0476,8.52462,1562,NG,Kano,KAN
+Murtala Muhammed International Airport,6.577370167,3.321160078,135,NG,Lagos,LOS
+Tunis Carthage International Airport,36.85100174,10.22719955,22,TN,Tunis,TUN
+Brussels Airport,50.90140152,4.48443985,184,BE,Brussels,BRU
+Brussels South Charleroi Airport,50.459202,4.45382,614,BE,Brussels,CRL
+Liège Airport,50.63740158,5.443220139,659,BE,Liège,LGG
+Berlin-Schönefeld Airport,52.380001,13.5225,157,DE,Berlin,SXF
+Dresden Airport,51.13280106,13.76720047,755,DE,Dresden,DRS
+Frankfurt am Main Airport,50.033333,8.570556,364,DE,Frankfurt am Main,FRA
+Münster Osnabrück Airport,52.13460159,7.684830189,160,DE,Münster,FMO
+Hamburg Airport,53.63040161,9.988229752,53,DE,Hamburg,HAM
+Cologne Bonn Airport,50.86589813,7.142739773,302,DE,Cologne,CGN
+Düsseldorf Airport,51.289501,6.76678,147,DE,Düsseldorf,DUS
+Munich Airport,48.353802,11.7861,1487,DE,Munich,MUC
+Nuremberg Airport,49.498699,11.078056,1046,DE,Nuremberg,NUE
+Leipzig/Halle Airport,51.423889,12.236389,465,DE,Leipzig,LEJ
+Stuttgart Airport,48.68989944,9.221960068,1276,DE,Stuttgart,STR
+Berlin-Tegel Airport,52.5597,13.2877,122,DE,Berlin,TXL
+Hannover Airport,52.46110153,9.685079575,183,DE,Hannover,HAJ
+Bremen Airport,53.04750061,8.786669731,14,DE,Bremen,BRE
+Dortmund Airport,51.5182991,7.612239838,425,DE,Dortmund,DTM
+Karlsruhe Baden-Baden Airport,48.77939987,8.080499649,408,DE,Baden-Baden,FKB
+Lennart Meri Tallinn Airport,59.41329956,24.83279991,131,EE,Tallinn,TLL
+Helsinki Vantaa Airport,60.31719971,24.9633007,179,FI,Helsinki,HEL
+Belfast International Airport,54.65750122,-6.215829849,268,GB,Belfast,BFS
+George Best Belfast City Airport,54.61809921,-5.872499943,15,GB,Belfast,BHD
+Birmingham International Airport,52.45389938,-1.748029947,327,GB,Birmingham,BHX
+Manchester Airport,53.35369873,-2.274950027,257,GB,Manchester,MAN
+Robin Hood Doncaster Sheffield Airport,53.48053781,-1.010656357,55,GB,Doncaster,DSA
+Cardiff International Airport,51.39670181,-3.343329906,220,GB,Cardiff,CWL
+Bristol Airport,51.382702,-2.71909,622,GB,Bristol,BRS
+Liverpool John Lennon Airport,53.33359909,-2.849720001,80,GB,Liverpool,LPL
+London Luton Airport,51.87469864,-0.368333012,526,GB,London,LTN
+Bournemouth Airport,50.77999878,-1.842499971,38,GB,Bournemouth,BOH
+Southampton Airport,50.95029831,-1.35679996,44,GB,Southampton,SOU
+London Gatwick Airport,51.14810181,-0.190277994,202,GB,London,LGW
+London Heathrow Airport,51.4706,-0.461941,83,GB,London,LHR
+Leeds Bradford Airport,53.86589813,-1.660570025,681,GB,Leeds,LBA
+Newcastle Airport,55.03749847,-1.691669941,266,GB,Newcastle,NCL
+East Midlands Airport,52.83110046,-1.328060031,306,GB,Nottingham,EMA
+Aberdeen Dyce Airport,57.20190048,-2.197779894,215,GB,Aberdeen,ABZ
+Glasgow International Airport,55.87189865,-4.433060169,26,GB,Glasgow,GLA
+Edinburgh Airport,55.95000076,-3.372499943,135,GB,Edinburgh,EDI
+Norwich International Airport,52.67580032,1.282780051,117,GB,Norwich,NWI
+London Stansted Airport,51.88499832,0.234999999,348,GB,London,STN
+Exeter International Airport,50.7344017,-3.413889885,102,GB,Exeter,EXT
+RAF Lakenheath,52.40930176,0.56099999,32,GB,Lakenheath,LKZ
+RAF Mildenhall,52.36190033,0.486405998,33,GB,Mildenhall,MHZ
+RAF Fairford,51.68220139,-1.790030003,286,GB,Fairford,FFD
+RAF Brize Norton,51.75,-1.58362,288,GB,Brize Norton,BZZ
+Amsterdam Airport Schiphol,52.30860138,4.76388979,-11,NL,Amsterdam,AMS
+Maastricht Aachen Airport,50.9117012,5.770140171,375,NL,Maastricht,MST
+Eindhoven Airport,51.45009995,5.374529839,74,NL,Eindhoven,EIN
+Cork Airport,51.84130096,-8.491109848,502,IE,Cork,ORK
+Dublin Airport,53.42129898,-6.270070076,242,IE,Dublin,DUB
+Shannon Airport,52.70199966,-8.924819946,46,IE,Limerick,SNN
+Billund Airport,55.74029922,9.151780128,247,DK,Billund,BLL
+Copenhagen Kastrup Airport,55.61790085,12.65600014,17,DK,Copenhagen,CPH
+Aalborg Airport,57.09275891,9.849243164,10,DK,Aalborg,AAL
+Luxembourg-Findel International Airport,49.6233333,6.2044444,1234,LU,Luxembourg,LUX
+Bodø Airport,67.26920319,14.36530018,42,NO,Bodø,BOO
+Bergen Airport Flesland,60.29339981,5.218140125,170,NO,Bergen,BGO
+Oslo Gardermoen Airport,60.19390106,11.10039997,681,NO,Oslo,OSL
+Tromsø Airport,69.6832962,18.91889954,31,NO,Tromsø,TOS
+Trondheim Airport Værnes,63.4578018,10.9239998,56,NO,Trondheim,TRD
+Stavanger Airport Sola,58.87670135,5.63778019,29,NO,Stavanger,SVG
+Gdańsk Lech Wałęsa Airport,54.37760162,18.46619987,489,PL,Gdańsk,GDN
+John Paul II International Airport Kraków-Balice Airport,50.07770157,19.78479958,791,PL,Kraków,KRK
+Katowice International Airport,50.4743,19.08,995,PL,Katowice,KTW
+Modlin Airport,52.4510994,20.65180016,341,PL,Warsaw,WMI
+Poznań-Ławica Airport,52.42100143,16.82629967,308,PL,Poznań,POZ
+Warsaw Chopin Airport,52.16569901,20.96710014,362,PL,Warsaw,WAW
+Copernicus Wrocław Airport,51.10269928,16.88579941,404,PL,Wrocław,WRO
+Gothenburg-Landvetter Airport,57.66279984,12.27980042,506,SE,Gothenburg,GOT
+Malmö Sturup Airport,55.53630536,13.37619781,236,SE,Malmö,MMX
+Luleå Airport,65.54380035,22.12199974,65,SE,Luleå,LLA
+Stockholm-Arlanda Airport,59.65190125,17.91860008,137,SE,Stockholm,ARN
+Ramstein Air Base,49.43690109,7.600279808,776,DE,Ramstein,RMS
+Riga International Airport,56.92359924,23.97109985,36,LV,Riga,RIX
+Vilnius International Airport,54.634102,25.285801,648,LT,Vilnius,VNO
+Cape Town International Airport,-33.96480179,18.60169983,151,ZA,Cape Town,CPT
+George Airport,-34.0056,22.378902,648,ZA,George,GRJ
+OR Tambo International Airport,-26.1392,28.246,5558,ZA,Johannesburg,JNB
+King Shaka International Airport,-29.61444444,31.11972222,295,ZA,Durban,DUR
+OR Tambo International Airport,-26.1392,28.246,5558,ZA,Johannesburg,JNB
+Sir Charles Gaetan Duval Airport,-19.7577,63.361,95,MU,Port Mathurin,RRG
+Kenneth Kaunda International Airport Lusaka,-15.33080006,28.45260048,3779,ZM,Lusaka,LUN
+Gran Canaria Airport,27.93190002,-15.38659954,78,ES,Gran Canaria Island,LPA
+Tenerife South Airport,28.04450035,-16.57250023,209,ES,Tenerife Island,TFS
+Tenerife Norte Airport,28.48270035,-16.34149933,2076,ES,Tenerife Island,TFN
+Mohammed V International Airport,33.36750031,-7.589970112,656,MA,Casablanca,CMN
+Diass-Thies Blaise Diagne International Airport,14.67,-17.07333333,290,SN,Dakar,DSS
+Léopold Sédar Senghor International Airport,14.73970032,-17.49020004,85,SN,Dakar,DKR
+Nouakchott–Oumtounsy International Airport,18.31,-15.9697222,9,MR,Nouakchott,NKC
+Addis Ababa Bole International Airport,8.977890015,38.79930115,7630,ET,Addis Ababa,ADD
+Cairo International Airport,30.12190056,31.40559959,382,EG,Cairo,CAI
+Hurghada International Airport,27.17830086,33.79940033,52,EG,Hurghada,HRG
+Luxor International Airport,25.671,32.7066,294,EG,Luxor,LXR
+Jomo Kenyatta International Airport,-1.319239974,36.92779922,5330,KE,Nairobi,NBO
+Mombasa Moi International Airport,-4.034830093,39.59420013,200,KE,Mombasa,MBA
+Tripoli International Airport,32.66350174,13.1590004,263,LY,Tripoli,TIP
+Juba International Airport,4.872010231,31.60110092,1513,SS,Juba,JUB
+Khartoum International Airport,15.58950043,32.55319977,1265,SD,Khartoum,KRT
+Julius Nyerere International Airport,-6.87811,39.202599,182,TZ,Dar es Salaam,DAR
+Albuquerque International Sunport Airport,35.040199,-106.609001,5355,US,Albuquerque,ABQ
+Andrews Air Force Base,38.810799,-76.866997,280,US,Camp Springs,ADW
+Fort Worth Alliance Airport,32.98759842,-97.31880188,722,US,Fort Worth,AFW
+Augusta Regional At Bush Field,33.36989975,-81.96450043,144,US,Augusta,AGS
+Rick Husband Amarillo International Airport,35.219398,-101.706001,3607,US,Amarillo,AMA
+Hartsfield Jackson Atlanta International Airport,33.63669968,-84.42810059,1026,US,Atlanta,ATL
+Austin Bergstrom International Airport,30.19449997,-97.66989899,542,US,Austin,AUS
+Asheville Regional Airport,35.43619919,-82.54180145,2165,US,Asheville,AVL
+Beale Air Force Base,39.13610077,-121.4369965,113,US,Marysville,BAB
+Barksdale Air Force Base,32.50180054,-93.66269684,166,US,Bossier City,BAD
+Bradley International Airport,41.93889999,-72.68319702,173,US,Hartford,BDL
+Boeing Field King County International Airport,47.52999878,-122.302002,21,US,Seattle,BFI
+Bangor International Airport,44.80739975,-68.82810211,192,US,Bangor,BGR
+Birmingham-Shuttlesworth International Airport,33.56290054,-86.75350189,650,US,Birmingham,BHM
+Billings Logan International Airport,45.80770111,-108.5429993,3652,US,Billings,BIL
+Scott AFB/Midamerica Airport,38.5452,-89.835197,459,US,Belleville,BLV
+Central Illinois Regional Airport at Bloomington-Normal,40.47710037,-88.91590118,871,US,Bloomington/Normal,BMI
+Nashville International Airport,36.12450027,-86.67819977,599,US,Nashville,BNA
+Boise Air Terminal/Gowen field,43.56439972,-116.2229996,2871,US,Boise,BOI
+General Edward Lawrence Logan International Airport,42.36429977,-71.00520325,20,US,Boston,BOS
+"Baton Rouge Metropolitan, Ryan Field",30.53319931,-91.14959717,70,US,Baton Rouge,BTR
+Buffalo Niagara International Airport,42.94049835,-78.73220062,728,US,Buffalo,BUF
+Baltimore/Washington International Thurgood Marshall Airport,39.17539978,-76.66829681,146,US,Baltimore,BWI
+Columbia Metropolitan Airport,33.93880081,-81.11949921,236,US,Columbia,CAE
+Columbus Air Force Base,33.64379883,-88.44380188,219,US,Columbus,CBM
+Lovell Field,35.03530121,-85.20379639,683,US,Chattanooga,CHA
+Charleston Air Force Base-International Airport,32.89860153,-80.04049683,46,US,Charleston,CHS
+The Eastern Iowa Airport,41.88470078,-91.71080017,869,US,Cedar Rapids,CID
+Cleveland Hopkins International Airport,41.4117012,-81.84980011,791,US,Cleveland,CLE
+Charlotte Douglas International Airport,35.2140007,-80.94309998,748,US,Charlotte,CLT
+John Glenn Columbus International Airport,39.998001,-82.891899,815,US,Columbus,CMH
+City of Colorado Springs Municipal Airport,38.80580139,-104.7009964,6187,US,Colorado Springs,COS
+Casper-Natrona County International Airport,42.90800095,-106.4639969,5350,US,Casper,CPR
+Corpus Christi International Airport,27.77039909,-97.50119781,44,US,Corpus Christi,CRP
+Yeager Airport,38.37310028,-81.59320068,981,US,Charleston,CRW
+Cincinnati Northern Kentucky International Airport,39.04880142,-84.6678009,896,US,Cincinnati,CVG
+Cannon Air Force Base,34.38280106,-103.3219986,4295,US,Clovis,CVS
+Daytona Beach International Airport,29.179899,-81.058098,34,US,Daytona Beach,DAB
+Dallas Love Field,32.847099,-96.851799,487,US,Dallas,DAL
+James M Cox Dayton International Airport,39.90240097,-84.2193985,1009,US,Dayton,DAY
+Dubuque Regional Airport,42.40200043,-90.70950317,1077,US,Dubuque,DBQ
+Ronald Reagan Washington National Airport,38.8521,-77.037697,15,US,Washington,DCA
+Denver International Airport,39.86169815,-104.6729965,5431,US,Denver,DEN
+Dallas Fort Worth International Airport,32.89680099,-97.03800201,607,US,Dallas-Fort Worth,DFW
+Laughlin Air Force Base,29.35950089,-100.7779999,1082,US,Del Rio,DLF
+Duluth International Airport,46.84209824,-92.19360352,1428,US,Duluth,DLH
+Dover Air Force Base,39.12950134,-75.46600342,24,US,Dover,DOV
+Des Moines International Airport,41.5340004,-93.6631012,958,US,Des Moines,DSM
+Detroit Metropolitan Wayne County Airport,42.21239853,-83.35340118,645,US,Detroit,DTW
+Dyess Air Force Base,32.42079926,-99.854599,1789,US,Abilene,DYS
+Edwards Air Force Base,34.905399,-117.884003,2312,US,Edwards,EDW
+Vance Air Force Base,36.33919907,-97.91649628,1307,US,Enid,END
+Erie International Tom Ridge Field,42.08312701,-80.17386675,732,US,Erie,ERI
+Newark Liberty International Airport,40.69250107,-74.16870117,18,US,Newark,EWR
+Wright-Patterson Air Force Base,39.8260994,-84.0483017,823,US,Dayton,FFO
+Fort Lauderdale Hollywood International Airport,26.07259941,-80.15270233,9,US,Fort Lauderdale,FLL
+Fort Smith Regional Airport,35.33660126,-94.36740112,469,US,Fort Smith,FSM
+Fort Worth Meacham International Airport,32.819801,-97.362396,710,US,Fort Worth,FTW
+Fort Wayne International Airport,40.97850037,-85.19509888,814,US,Fort Wayne,FWA
+Spokane International Airport,47.61989975,-117.5339966,2376,US,Spokane,GEG
+Gulfport Biloxi International Airport,30.40730095,-89.07009888,28,US,Gulfport,GPT
+Austin Straubel International Airport,44.48509979,-88.12960052,695,US,Green Bay,GRB
+Seymour Johnson Air Force Base,35.33940125,-77.96060181,109,US,Goldsboro,GSB
+Piedmont Triad International Airport,36.09780121,-79.93730164,925,US,Greensboro,GSO
+Greenville Spartanburg International Airport,34.89569855,-82.21890259,964,US,Greenville,GSP
+Grissom Air Reserve Base,40.64810181,-86.15209961,812,US,Peru,GUS
+Range Regional Airport,47.38660049,-92.83899689,1354,US,Hibbing,HIB
+Holloman Air Force Base,32.85250092,-106.1070023,4093,US,Alamogordo,HMN
+William P Hobby Airport,29.64539909,-95.27890015,46,US,Houston,HOU
+Huntsville International Carl T Jones Field,34.6371994,-86.77510071,629,US,Huntsville,HSV
+Tri-State/Milton J. Ferguson Field,38.36669922,-82.55799866,828,US,Huntington,HTS
+Washington Dulles International Airport,38.94449997,-77.45580292,312,US,Washington,IAD
+George Bush Intercontinental Houston Airport,29.9843998,-95.34140015,97,US,Houston,IAH
+Wichita Mid Continent Airport,37.64989853,-97.43309784,1333,US,Wichita,ICT
+Indianapolis International Airport,39.7173,-86.294403,797,US,Indianapolis,IND
+Jackson-Medgar Wiley Evers International Airport,32.31119919,-90.07589722,346,US,Jackson,JAN
+Jacksonville International Airport,30.49410057,-81.68789673,30,US,Jacksonville,JAX
+John F Kennedy International Airport,40.63980103,-73.77890015,13,US,New York,JFK
+Joplin Regional Airport,37.15179825,-94.49829865,981,US,Joplin,JLN
+McCarran International Airport,36.08010101,-115.1520004,2181,US,Las Vegas,LAS
+Los Angeles International Airport,33.94250107,-118.4079971,125,US,Los Angeles,LAX
+Lubbock Preston Smith International Airport,33.663601,-101.822998,3282,US,Lubbock,LBB
+Rickenbacker International Airport,39.813801,-82.927803,744,US,Columbus,LCK
+Blue Grass Airport,38.03649902,-84.60590363,979,US,Lexington,LEX
+Langley Air Force Base,37.082901,-76.36049652,11,US,Hampton,LFI
+Lafayette Regional Airport,30.20529938,-91.98760223,42,US,Lafayette,LFT
+La Guardia Airport,40.77719879,-73.87259674,21,US,New York,LGA
+Bill & Hillary Clinton National Airport/Adams Field,34.72940063,-92.22429657,262,US,Little Rock,LIT
+Altus Air Force Base,34.667099,-99.26670074,1382,US,Altus,LTS
+Luke Air Force Base,33.53499985,-112.3830032,1085,US,Glendale,LUF
+MBS International Airport,43.53290176,-84.07959747,668,US,Saginaw,MBS
+Mac Dill Air Force Base,27.84930038,-82.52120209,14,US,Tampa,MCF
+Kansas City International Airport,39.2976,-94.713898,1026,US,Kansas City,MCI
+Orlando International Airport,28.42939949,-81.30899811,96,US,Orlando,MCO
+Chicago Midway International Airport,41.7859993,-87.75240326,620,US,Chicago,MDW
+Memphis International Airport,35.04240036,-89.97669983,341,US,Memphis,MEM
+Dobbins Air Reserve Base,33.91540146,-84.51629639,1068,US,Marietta,MGE
+Montgomery Regional (Dannelly Field) Airport,32.30059814,-86.39399719,221,US,Montgomery,MGM
+Manchester Airport,42.93259811,-71.43569946,266,US,Manchester,MHT
+Miami International Airport,25.79319954,-80.29060364,8,US,Miami,MIA
+General Mitchell International Airport,42.94720078,-87.89659882,723,US,Milwaukee,MKE
+Quad City International Airport,41.44850159,-90.50749969,590,US,Moline,MLI
+Monroe Regional Airport,32.51089859,-92.03769684,79,US,Monroe,MLU
+Mobile Regional Airport,30.69120026,-88.24279785,219,US,Mobile,MOB
+Dane County Regional Truax Field,43.13990021,-89.33750153,887,US,Madison,MSN
+Minneapolis-St Paul International/Wold-Chamberlain Airport,44.88199997,-93.22180176,841,US,Minneapolis,MSP
+Louis Armstrong New Orleans International Airport,29.99340057,-90.25800323,4,US,New Orleans,MSY
+Mountain Home Air Force Base,43.043598,-115.872002,2996,US,Mountain Home,MUO
+Metropolitan Oakland International Airport,37.721298,-122.221001,9,US,Oakland,OAK
+Will Rogers World Airport,35.39310074,-97.60070038,1295,US,Oklahoma City,OKC
+Ontario International Airport,34.05599976,-117.6009979,944,US,Ontario,ONT
+Chicago O'Hare International Airport,41.97859955,-87.90480042,672,US,Chicago,ORD
+Norfolk International Airport,36.89459991,-76.20120239,26,US,Norfolk,ORF
+Tyndall Air Force Base,30.06959915,-85.57540131,17,US,Panama City,PAM
+Palm Beach International Airport,26.68320084,-80.09559631,19,US,West Palm Beach,PBI
+Portland International Airport,45.58869934,-122.5979996,31,US,Portland,PDX
+Newport News Williamsburg International Airport,37.13190079,-76.49299622,42,US,Newport News,PHF
+Philadelphia International Airport,39.87189865,-75.2410965,36,US,Philadelphia,PHL
+Phoenix Sky Harbor International Airport,33.43429947,-112.012001,1135,US,Phoenix,PHX
+General Wayne A. Downing Peoria International Airport,40.66419983,-89.69329834,660,US,Peoria,PIA
+Pittsburgh International Airport,40.49150085,-80.23290253,1203,US,Pittsburgh,PIT
+Portland International Jetport Airport,43.64619827,-70.30930328,76,US,Portland,PWM
+Raleigh Durham International Airport,35.87760162,-78.78749847,435,US,Raleigh/Durham,RDU
+Chicago Rockford International Airport,42.19540024,-89.09719849,742,US,Chicago/Rockford,RFD
+Richmond International Airport,37.50519943,-77.31970215,167,US,Richmond,RIC
+Randolph Air Force Base,29.52969933,-98.27890015,761,US,Universal City,RND
+Reno Tahoe International Airport,39.49909973,-119.7679977,4415,US,Reno,RNO
+Roanoke–Blacksburg Regional Airport,37.3255,-79.975403,1175,US,Roanoke,ROA
+Greater Rochester International Airport,43.1189003,-77.67240143,559,US,Rochester,ROC
+Rochester International Airport,43.90829849,-92.5,1317,US,Rochester,RST
+Southwest Florida International Airport,26.53619957,-81.75520325,30,US,Fort Myers,RSW
+San Diego International Airport,32.73360062,-117.1900024,17,US,San Diego,SAN
+San Antonio International Airport,29.53370094,-98.46980286,809,US,San Antonio,SAT
+Savannah Hilton Head International Airport,32.12760162,-81.20210266,50,US,Savannah,SAV
+South Bend Regional Airport,41.70869827,-86.31729889,799,US,South Bend,SBN
+Louisville International Standiford Field,38.1744,-85.736,501,US,Louisville,SDF
+Seattle Tacoma International Airport,47.44900131,-122.3089981,433,US,Seattle,SEA
+Orlando Sanford International Airport,28.77759933,-81.23750305,55,US,Orlando,SFB
+San Francisco International Airport,37.61899948,-122.375,13,US,San Francisco,SFO
+Springfield Branson National Airport,37.24570084,-93.38860321,1268,US,Springfield,SGF
+Shreveport Regional Airport,32.44660187,-93.82559967,258,US,Shreveport,SHV
+Norman Y. Mineta San Jose International Airport,37.362598,-121.929001,62,US,San Jose,SJC
+Fairchild Air Force Base,47.61510086,-117.6559982,2461,US,Spokane,SKA
+Salt Lake City International Airport,40.78839874,-111.9779968,4227,US,Salt Lake City,SLC
+Sacramento International Airport,38.69540024,-121.5910034,27,US,Sacramento,SMF
+John Wayne Airport-Orange County Airport,33.67570114,-117.8679962,56,US,Santa Ana,SNA
+Abraham Lincoln Capital Airport,39.84410095,-89.67790222,598,US,Springfield,SPI
+Sheppard Air Force Base-Wichita Falls Municipal Airport,33.9888,-98.491898,1019,US,Wichita Falls,SPS
+Sarasota Bradenton International Airport,27.39539909,-82.55439758,30,US,Sarasota/Bradenton,SRQ
+Shaw Air Force Base,33.97269821,-80.47059631,241,US,Sumter,SSC
+St Louis Lambert International Airport,38.748697,-90.370003,618,US,St Louis,STL
+Spirit of St Louis Airport,38.66210175,-90.65200043,463,US,St Louis,SUS
+Travis Air Force Base,38.26269913,-121.927002,62,US,Fairfield,SUU
+Sioux Gateway Col. Bud Day Field,42.40259933,-96.38439941,1098,US,Sioux City,SUX
+Syracuse Hancock International Airport,43.11119843,-76.10630035,421,US,Syracuse,SYR
+Whiteman Air Force Base,38.7303009,-93.54789734,870,US,Knob Noster,SZL
+McChord Air Force Base,47.13769913,-122.4759979,322,US,Tacoma,TCM
+Tinker Air Force Base,35.41469955,-97.38659668,1291,US,Oklahoma City,TIK
+Tallahassee Regional Airport,30.39649963,-84.35030365,81,US,Tallahassee,TLH
+Toledo Express Airport,41.58679962,-83.80780029,683,US,Toledo,TOL
+Tampa International Airport,27.97550011,-82.53320313,26,US,Tampa,TPA
+Tri-Cities Regional TN/VA Airport,36.475201,-82.407401,1519,US,Bristol/Johnson/Kingsport,TRI
+Tulsa International Airport,36.19839859,-95.88809967,677,US,Tulsa,TUL
+Tucson International Airport,32.11610031,-110.9410019,2643,US,Tucson,TUS
+McGhee Tyson Airport,35.81100082,-83.9940033,981,US,Knoxville,TYS
+Vandenberg Air Force Base,34.73730087,-120.5839996,369,US,Lompoc,VBG
+Destin-Ft Walton Beach Airport,30.4832,-86.525398,87,US,Valparaiso,VPS
+Robins Air Force Base,32.64009857,-83.59190369,294,US,Warner Robins,WRB
+Tirana International Airport Mother Teresa,41.41469955,19.72060013,126,AL,Tirana,TIA
+Burgas Airport,42.56959915,27.51519966,135,BG,Burgas,BOJ
+Sofia Airport,42.69669342,23.41143608,1742,BG,Sofia,SOF
+Varna Airport,43.232101,27.8251,230,BG,Varna,VAR
+Larnaca International Airport,34.87509918,33.62490082,8,CY,Larnarca,LCA
+Paphos International Airport,34.7179985,32.4856987,41,CY,Paphos,PFO
+RAF Akrotiri,34.590401,32.9879,76,GB,Akrotiri,AKT
+Zagreb Airport,45.74290085,16.06879997,353,HR,Zagreb,ZAG
+Alicante International Airport,38.28219986,-0.558156013,142,ES,Alicante,ALC
+Barcelona International Airport,41.29710007,2.078459978,12,ES,Barcelona,BCN
+Adolfo Suárez Madrid–Barajas Airport,40.471926,-3.56264,1998,ES,Madrid,MAD
+Málaga Airport,36.67490005,-4.499110222,53,ES,Málaga,AGP
+Palma De Mallorca Airport,39.55170059,2.738810062,27,ES,Palma De Mallorca,PMI
+Santiago de Compostela Airport,42.89630127,-8.415140152,1213,ES,Santiago de Compostela,SCQ
+Bordeaux-Mérignac Airport,44.82830048,-0.715556026,162,FR,Bordeaux/Mérignac,BOD
+Toulouse-Blagnac Airport,43.629101,1.36382,499,FR,Toulouse/Blagnac,TLS
+Lyon Saint-Exupéry Airport,45.725556,5.081111,821,FR,Lyon,LYS
+Marseille Provence Airport,43.43927192,5.221424103,74,FR,Marseille,MRS
+Nice-Côte d'Azur Airport,43.65840149,7.215869904,12,FR,Nice,NCE
+Charles de Gaulle International Airport,49.01279831,2.549999952,392,FR,Paris,CDG
+Paris-Orly Airport,48.7233333,2.3794444,291,FR,Paris,ORY
+EuroAirport Basel-Mulhouse-Freiburg Airport,47.59,7.5291667,885,FR,Bâle/Mulhouse,BSL
+Eleftherios Venizelos International Airport,37.93640137,23.94449997,308,GR,Athens,ATH
+Heraklion International Nikos Kazantzakis Airport,35.33969879,25.18029976,115,GR,Heraklion,HER
+Thessaloniki Macedonia International Airport,40.5196991,22.97089958,22,GR,Thessaloniki,SKG
+Budapest Ferenc Liszt International Airport,47.43690109,19.25559998,495,HU,Budapest,BUD
+Bari Karol Wojtyła Airport,41.138901,16.760599,177,IT,Bari,BRI
+Catania-Fontanarossa Airport,37.466801,15.0664,39,IT,Catania,CTA
+Falcone–Borsellino Airport,38.175999,13.091,65,IT,Palermo,PMO
+Cagliari Elmas Airport,39.251499,9.05428,13,IT,Cagliari,CAG
+Malpensa International Airport,45.6306,8.72811,768,IT,Milan,MXP
+Il Caravaggio International Airport,45.673901,9.70417,782,IT,Bergamo,BGY
+Turin Airport,45.200802,7.64963,989,IT,Torino,TRN
+Genoa Cristoforo Colombo Airport,44.4133,8.8375,13,IT,Genova,GOA
+Milano Linate Airport,45.445099,9.27674,353,IT,Milan,LIN
+Bologna Guglielmo Marconi Airport,44.5354,11.2887,123,IT,Bologna,BLQ
+Treviso-Sant'Angelo Airport,45.648399,12.1944,59,IT,Treviso,TSF
+Verona Villafranca Airport,45.395699,10.8885,239,IT,Verona,VRN
+Venice Marco Polo Airport,45.505299,12.3519,7,IT,Venice,VCE
+Ciampino–G. B. Pastine International Airport,41.7994,12.5949,427,IT,Rome,CIA
+Leonardo da Vinci–Fiumicino Airport,41.8002778,12.2388889,13,IT,Rome,FCO
+Naples International Airport,40.886002,14.2908,294,IT,Nápoli,NAP
+Pisa International Airport,43.683899,10.3927,6,IT,Pisa,PSA
+Ljubljana Jože Pučnik Airport,46.223701,14.4576,1273,SI,Ljubljana,LJU
+Václav Havel Airport Prague,50.1008,14.26,1247,CZ,Prague,PRG
+Ben Gurion International Airport,32.01139832,34.88669968,135,IL,Tel Aviv,TLV
+Ovda International Airport,29.94029999,34.93579865,1492,IL,Eilat,VDA
+Malta International Airport,35.857498,14.4775,300,MT,Valletta,MLA
+Vienna International Airport,48.11029816,16.56970024,600,AT,Vienna,VIE
+Faro Airport,37.01440048,-7.965909958,24,PT,Faro,FAO
+Lajes Airport,38.761799,-27.090799,180,PT,Praia da Vitória,TER
+João Paulo II Airport,37.74119949,-25.69790077,259,PT,Ponta Delgada,PDL
+Francisco de Sá Carneiro Airport,41.24810028,-8.681389809,228,PT,Porto,OPO
+Humberto Delgado Airport (Lisbon Portela Airport),38.7813,-9.13592,374,PT,Lisbon,LIS
+Sarajevo International Airport,43.82460022,18.3314991,1708,BA,Sarajevo,SJJ
+Henri Coandă International Airport,44.5711111,26.085,314,RO,Bucharest,OTP
+Geneva Cointrin International Airport,46.23809814,6.108950138,1411,CH,Geneva,GVA
+Zürich Airport,47.464699,8.54917,1416,CH,Zurich,ZRH
+Esenboğa International Airport,40.12810135,32.99509811,3125,TR,Ankara,ESB
+Adana Airport,36.98220062,35.28039932,65,TR,Adana,ADA
+Antalya International Airport,36.898701,30.800501,177,TR,Antalya,AYT
+Gaziantep International Airport,36.94720078,37.47869873,2315,TR,Gaziantep,GZT
+Atatürk International Airport,40.97689819,28.81459999,163,TR,Istanbul,IST
+Adnan Menderes International Airport,38.29240036,27.15699959,412,TR,İzmir,ADB
+Dalaman International Airport,36.71310043,28.79249954,20,TR,Dalaman,DLM
+Erzurum International Airport,39.95650101,41.17020035,5763,TR,Erzurum,ERZ
+Trabzon International Airport,40.99509811,39.78969955,104,TR,Trabzon,TZX
+Süleyman Demirel International Airport,37.85540009,30.36840057,2835,TR,Isparta,ISE
+Milas Bodrum International Airport,37.25059891,27.66430092,21,TR,Bodrum,BJV
+Sabiha Gökçen International Airport,40.89860153,29.30920029,312,TR,Istanbul,SAW
+Belgrade Nikola Tesla Airport,44.81840134,20.3090992,335,RS,Belgrade,BEG
+Podgorica Airport,42.359402,19.2519,141,ME,Podgorica,TGD
+M. R. Štefánik Airport,48.17020035,17.21269989,436,SK,Bratislava,BTS
+Punta Cana International Airport,18.56739998,-68.36340332,47,DO,Punta Cana,PUJ
+Las Américas International Airport,18.42970085,-69.66889954,59,DO,Santo Domingo,SDQ
+Norman Manley International Airport,17.93569946,-76.78749847,10,JM,Kingston,KIN
+General Juan N Alvarez International Airport,16.75709915,-99.7539978,16,MX,Acapulco,ACA
+Don Miguel Hidalgo Y Costilla International Airport,20.52179909,-103.310997,5016,MX,Guadalajara,GDL
+General Ignacio P. Garcia International Airport,29.09589958,-111.0479965,627,MX,Hermosillo,HMO
+Licenciado Benito Juarez International Airport,19.4363,-99.072098,7316,MX,Mexico City,MEX
+General Mariano Escobedo International Airport,25.7784996,-100.1070023,1278,MX,Monterrey,MTY
+Licenciado Gustavo Díaz Ordaz International Airport,20.68009949,-105.2539978,23,MX,Puerto Vallarta,PVR
+Los Cabos International Airport,23.15180016,-109.7210007,374,MX,San José del Cabo,SJD
+General Abelardo L. Rodríguez International Airport,32.54109955,-116.9700012,489,MX,Tijuana,TIJ
+Cancún International Airport,21.03650093,-86.87709808,22,MX,Cancún,CUN
+Tocumen International Airport,9.071359634,-79.38349915,135,PA,Tocumen,PTY
+Monseñor Óscar Arnulfo Romero International Airport,13.4409,-89.055702,101,SV,San Salvador (San Luis Talpa),SAL
+José Martí International Airport,22.98920059,-82.40910339,210,CU,Havana,HAV
+Juan Gualberto Gomez International Airport,23.03440094,-81.43530273,210,CU,Varadero,VRA
+Owen Roberts International Airport,19.2928009,-81.35769653,8,KY,Georgetown,GCM
+Lynden Pindling International Airport,25.03899956,-77.46620178,16,BS,Nassau,NAS
+Philip S. W. Goldson International Airport,17.53910065,-88.30819702,15,BZ,Belize City,BZE
+Rarotonga International Airport,-21.20269966,-159.8059998,19,CK,Avarua,RAR
+Auckland International Airport,-37.0080986,174.7920074,23,NZ,Auckland,AKL
+Christchurch International Airport,-43.48939896,172.5319977,123,NZ,Christchurch,CHC
+Wellington International Airport,-41.32720184,174.8049927,41,NZ,Wellington,WLG
+Bahrain International Airport,26.27079964,50.63359833,6,BH,Manama,BAH
+King Fahd International Airport,26.47120094,49.79790115,72,SA,Ad Dammam,DMM
+King Abdulaziz International Airport,21.6796,39.156502,48,SA,Jeddah,JED
+Prince Mohammad Bin Abdulaziz Airport,24.5534,39.705101,2151,SA,Medina,MED
+King Khaled International Airport,24.95759964,46.69879913,2049,SA,Riyadh,RUH
+Imam Khomeini International Airport,35.41609955,51.15219879,3305,IR,Tehran,IKA
+Mehrabad International Airport,35.68920135,51.31340027,3962,IR,Tehran,THR
+Mashhad International Airport,36.23519897,59.64099884,3263,IR,Mashhad,MHD
+Shiraz Shahid Dastghaib International Airport,29.53919983,52.58980179,4920,IR,Shiraz,SYZ
+Tabriz International Airport,38.13389969,46.23500061,4459,IR,Tabriz,TBZ
+Queen Alia International Airport,31.72260094,35.99319839,2395,JO,Amman,AMM
+Kuwait International Airport,29.22660065,47.96889877,206,KW,Kuwait City,KWI
+Beirut Rafic Hariri International Airport,33.82089996,35.48839951,87,LB,Beirut,BEY
+Duqm International Airport,19.501944,57.634167,364,OM,Duqm,DQM
+Rustaq Airport,23.640556,57.4875,349,OM,Al Masna'ah,MNH
+Abu Dhabi International Airport,24.43300056,54.65110016,88,AE,Abu Dhabi,AUH
+Dubai International Airport,25.25279999,55.36439896,62,AE,Dubai,DXB
+Al Maktoum International Airport,24.896356,55.161389,114,AE,Jebel Ali,DWC
+Sharjah International Airport,25.32859993,55.51720047,111,AE,Sharjah,SHJ
+Muscat International Airport,23.59329987,58.28440094,48,OM,Muscat,MCT
+Benazir Bhutto International Airport,33.61669922,73.09919739,1668,PK,Islamabad,ISB
+Sialkot Airport,32.53555679,74.3638916,837,PK,Sialkot,SKT
+Baghdad International Airport,33.26250076,44.23460007,114,IQ,Baghdad,BGW
+Basrah International Airport,30.54910088,47.66210175,11,IQ,Basrah,BSR
+Aleppo International Airport,36.18069839,37.22439957,1276,SY,Aleppo,ALP
+Damascus International Airport,33.41149902,36.5155983,2020,SY,Damascus,DAM
+Bassel Al-Assad International Airport,35.40110016,35.94869995,157,SY,Latakia,LTK
+Fairbanks International Airport,64.81510162,-147.8560028,439,US,Fairbanks,FAI
+Ted Stevens Anchorage International Airport,61.17440033,-149.9960022,152,US,Anchorage,ANC
+Antonio B. Won Pat International Airport,13.48340034,144.7960052,298,GU,"Hagåtña, Guam International Airport",GUM
+Laguindingan Airport,8.612203,124.456496,190,PH,Cagayan de Oro City,CGY
+Daniel K Inouye International Airport,21.32062,-157.924228,13,US,Honolulu,HNL
+Hamad International Airport,25.273056,51.608056,13,QA,Doha,DOH
+Kinmen Airport,24.4279,118.359001,93,TW,Shang-I,KNH
+Kaohsiung International Airport,22.57710075,120.3499985,31,TW,Kaohsiung City,KHH
+Taiwan Taoyuan International Airport,25.0777,121.233002,106,TW,Taipei,TPE
+Narita International Airport,35.76470184,140.3860016,141,JP,Tokyo,NRT
+Kansai International Airport,34.4272995,135.2440033,26,JP,Osaka,KIX
+New Chitose Airport,42.77519989,141.6920013,82,JP,Chitose / Tomakomai,CTS
+Fukuoka Airport,33.58589935,130.451004,32,JP,Fukuoka,FUK
+Kagoshima Airport,31.80340004,130.7189941,906,JP,Kagoshima,KOJ
+Chubu Centrair International Airport,34.85839844,136.8049927,15,JP,Tokoname,NGO
+Mt. Fuji Shizuoka Airport,34.79604347,138.1877518,433,JP,Makinohara / Shimada,FSZ
+Osaka International Airport,34.78549957,135.4380035,50,JP,Osaka,ITM
+Tokyo Haneda International Airport,35.552299,139.779999,35,JP,Tokyo,HND
+Yokota Air Base,35.74850082,139.3480072,463,JP,Fussa,OKO
+Muan International Airport,34.991406,126.382814,35,KR,Piseo-ri (Muan),MWX
+Kunsan Air Base,35.90380096,126.6159973,29,KR,Kunsan,KUV
+Jeju International Airport,33.51129913,126.4929962,118,KR,Jeju City,CJU
+Gimhae International Airport,35.17950058,128.9380035,6,KR,Busan,PUS
+Incheon International Airport,37.46910095,126.4509964,23,KR,Seoul,ICN
+Gimpo International Airport,37.5583,126.791,59,KR,Seoul,GMP
+Cheongju International Airport/Cheongju Air Base (K-59/G-513),36.717008,127.498741,191,KR,Cheongju,CJJ
+Naha Airport,26.19580078,127.6460037,12,JP,Naha,OKA
+Diosdado Macapagal International Airport,15.186,120.559998,484,PH,Angeles/Mabalacat,CRK
+Ninoy Aquino International Airport,14.5086,121.019997,75,PH,Manila,MNL
+Francisco Bangoy International Airport,7.125520229,125.6460037,96,PH,Davao City,DVO
+Mactan Cebu International Airport,10.30749989,123.9789963,31,PH,Lapu-Lapu City,CEB
+Grozny North Airport,43.388302,45.698601,548,RU,Grozny,GRV
+Ministro Pistarini International Airport,-34.8222,-58.5358,67,AR,Buenos Aires,EZE
+Val de Cans/Júlio Cezar Ribeiro International Airport,-1.37925005,-48.47629929,54,BR,Belém,BEL
+Presidente Juscelino Kubistschek International Airport,-15.86916733,-47.92083359,3497,BR,Brasília,BSB
+Tancredo Neves International Airport,-19.62444305,-43.9719429,2715,BR,Belo Horizonte,CNF
+Afonso Pena Airport,-25.5284996,-49.17580032,2988,BR,Curitiba,CWB
+Hercílio Luz International Airport,-27.67027855,-48.55250168,16,BR,Florianópolis,FLN
+Rio Galeão – Tom Jobim International Airport,-22.80999947,-43.25055695,28,BR,Rio De Janeiro,GIG
+Guarulhos - Governador André Franco Montoro International Airport,-23.43555641,-46.47305679,2459,BR,São Paulo,GRU
+Governador Aluízio Alves International Airport,-5.768056,-35.376111,272,BR,Natal,NAT
+Congonhas Airport,-23.62611008,-46.65638733,2631,BR,São Paulo,CGH
+Deputado Luiz Eduardo Magalhães International Airport,-12.9086113,-38.32249832,64,BR,Salvador,SSA
+Comodoro Arturo Merino Benítez International Airport,-33.39300156,-70.78579712,1555,CL,Santiago,SCL
+Cotopaxi International Airport,-0.906832993,-78.61579895,9205,EC,Latacunga,LTX
+Mariscal Sucre International Airport,-0.129166667,-78.3575,7841,EC,Quito,UIO
+El Dorado International Airport,4.70159,-74.1469,8361,CO,Bogota,BOG
+Jorge Chávez International Airport,-12.0219,-77.114305,113,PE,Lima,LIM
+Alejandro Velasco Astete International Airport,-13.53569984,-71.938797,10860,PE,Cusco,CUZ
+Carrasco International /General C L Berisso Airport,-34.838402,-56.0308,105,UY,Montevideo,MVD
+General José Antonio Anzoategui International Airport,10.11111111,-64.69222222,30,VE,Barcelona,BLA
+Simón Bolívar International Airport,10.601194,-66.991222,234,VE,Caracas,CCS
+Pointe-à-Pitre Le Raizet,16.265301,-61.531799,36,GP,Pointe-à-Pitre,PTP
+Luis Munoz Marin International Airport,18.43939972,-66.00180054,9,PR,San Juan,SJU
+Enfidha - Hammamet International Airport,36.075833,10.438611,21,TN,Enfidha,NBE
+Princess Juliana International Airport,18.04100037,-63.10889816,13,SX,Saint Martin,SXM
+Almaty Airport,43.35210037,77.04049683,2234,KZ,Almaty,ALA
+Astana International Airport,51.02220154,71.46690369,1165,KZ,Astana,TSE
+Manas International Airport,43.06129837,74.4776001,2058,KG,Bishkek,FRU
+Sary-Arka Airport,49.67079926,73.33439636,1765,KZ,Karaganda,KGF
+Heydar Aliyev International Airport,40.46749878,50.04669952,10,AZ,Baku,GYD
+Zvartnots International Airport,40.14730072,44.39590073,2838,AM,Yerevan,EVN
+Tbilisi International Airport,41.6692009,44.95470047,1624,GE,Tbilisi,TBS
+Khabarovsk-Novy Airport,48.52799988,135.1880035,244,RU,Khabarovsk,KHV
+Boryspil International Airport,50.34500122,30.8946991,427,UA,Kiev,KBP
+Simferopol International Airport,45.05220032,33.97510147,639,UA,Simferopol,SIP
+Kharkiv International Airport,49.92480087,36.29000092,508,UA,Kharkiv,HRK
+Odessa International Airport,46.42679977,30.67650032,172,UA,Odessa,ODS
+Pulkovo Airport,59.8003006,30.26250076,78,RU,St. Petersburg,LED
+Minsk National Airport,53.88249969,28.03070068,670,BY,Minsk,MSQ
+Yemelyanovo Airport,56.17290115,92.49330139,942,RU,Krasnoyarsk,KJA
+Tolmachevo Airport,55.01259995,82.65070343,365,RU,Novosibirsk,OVB
+Platov International Airport,47.493888,39.924722,213,RU,Rostov-on-Don,ROV
+Sochi International Airport,43.449902,39.9566,89,RU,Sochi,AER
+Koltsovo Airport,56.74309921,60.80270004,764,RU,Yekaterinburg,SVX
+Tashkent International Airport,41.25790024,69.28119659,1417,UZ,Tashkent,TAS
+Zhukovsky International Airport,55.553299,38.150002,377,RU,Zhukovsky,ZIA
+Domodedovo International Airport,55.40879822,37.90629959,588,RU,Moscow,DME
+Sheremetyevo International Airport,55.972599,37.4146,622,RU,Moscow,SVO
+Chkalovskiy Airport,55.8783,38.061699,499,RU,Moscow,CKL
+Vnukovo International Airport,55.59149933,37.26150131,685,RU,Moscow,VKO
+Kazan International Airport,55.60620117,49.27870178,411,RU,Kazan,KZN
+Ufa International Airport,54.55749893,55.87440109,449,RU,Ufa,UFA
+Kurumoch International Airport,53.50490189,50.16429901,477,RU,Samara,KUF
+Chhatrapati Shivaji International Airport,19.08869934,72.86789703,39,IN,Mumbai,BOM
+Dabolim Airport,15.38080025,73.83139801,150,IN,Vasco da Gama,GOI
+Bandaranaike International Colombo Airport,7.180759907,79.88410187,30,LK,Colombo,CMB
+Phnom Penh International Airport,11.54660034,104.8440018,40,KH,Phnom Penh,PNH
+Siem Reap International Airport,13.41069984,103.8130035,60,KH,Siem Reap,REP
+Netaji Subhash Chandra Bose International Airport,22.65469933,88.44670105,16,IN,Kolkata,CCU
+Chek Lap Kok International Airport,22.30890083,113.9150009,28,HK,Hong Kong,HKG
+Sri Guru Ram Dass Jee International Airport,31.70960045,74.79730225,756,IN,Amritsar,ATQ
+Indira Gandhi International Airport,28.5665,77.103104,777,IN,New Delhi,DEL
+Macau International Airport,22.149599,113.592003,20,MO,Macau,MFM
+Kempegowda International Airport,13.1979,77.706299,3000,IN,Bangalore,BLR
+Cochin International Airport,10.152,76.401901,30,IN,Kochi,COK
+Calicut International Airport,11.13679981,75.95529938,342,IN,Calicut,CCJ
+Rajiv Gandhi International Airport,17.23131752,78.42985535,2024,IN,Hyderabad,HYD
+Chennai International Airport,12.99000549,80.16929626,52,IN,Chennai,MAA
+Trivandrum International Airport,8.48211956,76.92009735,15,IN,Thiruvananthapuram,TRV
+Malé International Airport,4.191830158,73.52909851,6,MV,Malé,MLE
+Don Mueang International Airport,13.91259956,100.6070023,9,TH,Bangkok,DMK
+Suvarnabhumi Airport,13.68109989,100.7470016,5,TH,Bangkok,BKK
+Chiang Mai International Airport,18.76679993,98.96260071,1036,TH,Chiang Mai,CNX
+Phuket International Airport,8.1132,98.316902,82,TH,Phuket,HKT
+Da Nang International Airport,16.04389954,108.1989975,33,VN,Da Nang,DAD
+Noi Bai International Airport,21.22120094,105.8069992,39,VN,Hanoi,HAN
+Tan Son Nhat International Airport,10.81879997,106.6520004,33,VN,Ho Chi Minh City,SGN
+Mandalay International Airport,21.70219994,95.97789764,300,MM,Mandalay,MDL
+Yangon International Airport,16.90730095,96.1332016,109,MM,Yangon,RGN
+Hasanuddin International Airport,-5.061629772,119.5540009,47,ID,Ujung Pandang-Celebes Island,UPG
+Ngurah Rai (Bali) International Airport,-8.748169899,115.1669998,14,ID,Denpasar-Bali Island,DPS
+Juanda International Airport,-7.379829884,112.7870026,9,ID,Surabaya,SUB
+Dominique Edward Osok Airport,-0.894,131.287,10,ID,Sorong-Papua Island,SOQ
+Brunei International Airport,4.944200039,114.9280014,73,BN,Bandar Seri Begawan,BWN
+Soekarno-Hatta International Airport,-6.12556982,106.6559982,34,ID,Jakarta,CGK
+Kuala Lumpur International Airport,2.745579958,101.7099991,69,MY,Kuala Lumpur,KUL
+Singapore Changi Airport,1.35019,103.994003,22,SG,Singapore,SIN
+Brisbane International Airport,-27.38419914,153.1170044,13,AU,Brisbane,BNE
+Melbourne International Airport,-37.673302,144.843002,434,AU,Melbourne,MEL
+Adelaide International Airport,-34.945,138.531006,20,AU,Adelaide,ADL
+Perth International Airport,-31.94029999,115.9670029,67,AU,Perth,PER
+Canberra International Airport,-35.30690002,149.1950073,1886,AU,Canberra,CBR
+Sydney Kingsford Smith International Airport,-33.94609833,151.177002,21,AU,Sydney,SYD
+Beijing Capital International Airport,40.08010101,116.5849991,116,CN,Beijing,PEK
+Baita International Airport,40.851398,111.823997,3556,CN,Hohhot,HET
+Tianjin Binhai International Airport,39.12440109,117.3460007,10,CN,Tianjin,TSN
+Taiyuan Wusu Airport,37.74689865,112.6279984,2575,CN,Taiyuan,TYN
+Guangzhou Baiyun International Airport,23.39240074,113.2990036,50,CN,Guangzhou,CAN
+Changsha Huanghua International Airport,28.18919945,113.2200012,217,CN,Changsha,CSX
+Guilin Liangjiang International Airport,25.21809959,110.0390015,570,CN,Guilin City,KWL
+Nanning Wuxu Airport,22.60829926,108.1719971,421,CN,Nanning,NNG
+Shenzhen Bao'an International Airport,22.63929939,113.810997,13,CN,Shenzhen,SZX
+Zhengzhou Xinzheng International Airport,34.5196991,113.8410034,495,CN,Zhengzhou,CGO
+Wuhan Tianhe International Airport,30.7838,114.208,113,CN,Wuhan,WUH
+Haikou Meilan International Airport,19.93490028,110.4589996,75,CN,Haikou,HAK
+Sanya Phoenix International Airport,18.30290031,109.4120026,92,CN,Sanya,SYX
+Xi'an Xianyang International Airport,34.447102,108.751999,1572,CN,Xi'an,XIY
+Kunming Changshui International Airport,25.1019444,102.9291667,6903,CN,Kunming,KMG
+Xiamen Gaoqi International Airport,24.54400063,118.1279984,59,CN,Xiamen,XMN
+Fuzhou Changle International Airport,25.93510056,119.663002,46,CN,Fuzhou,FOC
+Hangzhou Xiaoshan International Airport,30.22949982,120.4339981,23,CN,Hangzhou,HGH
+Yaoqiang Airport,36.85720062,117.2160034,76,CN,Jinan,TNA
+Ningbo Lishe International Airport,29.82670021,121.461998,13,CN,Ningbo,NGB
+Nanjing Lukou Airport,31.74200058,118.8619995,49,CN,Nanjing,NKG
+Shanghai Pudong International Airport,31.14340019,121.8050003,13,CN,Shanghai,PVG
+Shanghai Hongqiao International Airport,31.19790077,121.3359985,10,CN,Shanghai,SHA
+Chongqing Jiangbei International Airport,29.71920013,106.6419983,1365,CN,Chongqing,CKG
+Longdongbao Airport,26.53849983,106.8010025,3736,CN,Guiyang,KWE
+Chengdu Shuangliu International Airport,30.57850075,103.9469986,1625,CN,Chengdu,CTU
+Ürümqi Diwopu International Airport,43.90710068,87.47419739,2125,CN,Ürümqi,URC
+Taiping Airport,45.62340164,126.25,457,CN,Harbin,HRB
+Zhoushuizi Airport,38.96569824,121.5390015,107,CN,Dalian,DLC
+Taoxian Airport,41.63980103,123.4830017,198,CN,Shenyang,SHE
